@@ -20,7 +20,7 @@ if($_POST['submit']){
 </head>
 <body>
     <form action="#" method="post">
-    <h3> add category</h3>
+    <h3> Add Category</h3>
     <input type="text" name="cname" id="" placeholder="category name" required>
     <input type="submit" name="submit" value="Add">
     </form>
