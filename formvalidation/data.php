@@ -1,5 +1,6 @@
 <?php
-include 'dbConnect.php';
+//include 'dbConnect.php';
+require 'dbConnect.php';
 //print_r($_POST);
 //print_r($_GET);
 $username=$_POST['username'];
